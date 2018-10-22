@@ -1,2 +1,3 @@
 # .tmux
-tmux config
+$ git clone to ~/
+$ cp ~/.tmux/.tmux.conf ~/
